@@ -1,0 +1,2 @@
+# indicator-application
+Ignore
